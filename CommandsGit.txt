@@ -1,0 +1,68 @@
+#Definição Nome de Usuário
+git config --global user.name "Maik Costa"
+
+#Definição E-mail
+git config --global user.email "maikcosta@gmail.com"
+
+#Definição Editor Padrão
+git config --global core.editor atom
+
+#Todas Informações git
+git config --list
+
+#Criar pastas
+mkdir "nomedapasta"
+
+#Entrar pasta
+cd "nomedapasta"
+
+#Descer 1 nivel da pasta
+cd ..
+
+#Inicialização git
+git init
+
+#Listar pastas
+ls -la
+ls
+
+#Ciclo de vida dos arquivos
+git status
+
+--adicionar ao git
+git add "nomedoarquivo"
+
+--commit do primeiro arquivo
+git commit -m "Mensagem/Motivo do Primeiro Commit"
+
+#Exibe alterações do git
+git log
+
+git log --decorate
+git log --author="Maik"
+git shortlog
+git shortlog -sn
+git log --graph
+
+git show "hash"
+
+
+#Exibir diferenças entre versões
+git diff
+
+#Exibe somente arquivo que foi modificado
+git diff --name-only
+
+#Quando é uma edição podemos utilizar o comando para comitar
+
+git commit -am "Mensagem do commit"
+
+
+#Restore arquivos não adicionados ao git esse comando elimina as alterações
+git checkout
+
+#Restore git
+git reset --soft
+git reset --mixed
+git reset --hard
+a
