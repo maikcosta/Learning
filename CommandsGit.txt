@@ -64,10 +64,3 @@ git checkout
 git reset --soft
 git reset --mixed
 git reset --hard
-
-<<<<<<< HEAD
-abc
-=======
-
-123
->>>>>>> a10f10a8995e7ca9cfbfb0835e49f1b2d0fa052b
