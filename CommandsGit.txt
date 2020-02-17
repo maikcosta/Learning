@@ -65,8 +65,3 @@ git checkout
 git reset --soft
 git reset --mixed
 git reset --hard
-
-
-joão
-maria
-jose
