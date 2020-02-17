@@ -64,3 +64,10 @@ git checkout
 git reset --soft
 git reset --mixed
 git reset --hard
+
+#Exibir repositorios remotos
+git remote
+git remote -v
+
+#Enviar arquivo via cml git bash
+git push "nomerepositoriasemaspas" master
