@@ -65,12 +65,3 @@ git checkout
 git reset --soft
 git reset --mixed
 git reset --hard
-<<<<<<< HEAD
-=======
-
-
-joão
-maria
-jose
-igor
->>>>>>> cac80f4189294a824fa78d7f64d365bd9e9307ba
