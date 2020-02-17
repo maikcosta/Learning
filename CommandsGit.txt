@@ -57,7 +57,6 @@ git diff --name-only
 
 git commit -am "Mensagem do commit"
 
-
 #Restore arquivos não adicionados ao git esse comando elimina as alterações
 git checkout
 
