@@ -71,3 +71,19 @@ git remote -v
 
 #Enviar arquivo via cml git bash
 git push "nomerepositoriasemaspas" master
+
+
+#Clonagem de repositorios
+git "nomedorepositoriosemaspas" "novonomesemaspas"
+
+#Criando um branch
+git checkout -b "nomebrachsemaspas"
+
+#Exibe qual branch que está conectado
+git branch
+
+#Mudar de branch
+git checkout "nomebranchsemaspas"
+
+#Deletar branch
+git branch -D "nomedobranchsemaspas"
