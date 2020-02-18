@@ -87,3 +87,20 @@ git checkout "nomebranchsemaspas"
 
 #Deletar branch
 git branch -D "nomedobranchsemaspas"
+
+#Deletar branch remotos
+git branch
+
+#Criando Alias comandos
+git config --global alias.s "nomealiassemaspas"
+
+#Adicionando Tags aos repositorios
+git tag -a "tagsemaspas" -m "Mensagem da tag"
+
+#Deletando tag
+git tag -d "tagsemaspas"
+
+
+
+#Revertendo commitações
+git revert "hashcode"
