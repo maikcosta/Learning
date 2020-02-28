@@ -17,5 +17,7 @@ public class Inferencia {
 		
 		var e = 123.65; 
 		System.out.println(e);
+		
+		System.out.println("Yes i can do it");
 	}
 }
