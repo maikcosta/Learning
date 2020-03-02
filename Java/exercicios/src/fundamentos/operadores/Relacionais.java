@@ -17,9 +17,6 @@ public class Relacionais {
 		boolean temDesconto = bomComportamento && nota >= 7;
 		System.out.println("Tem Desconto? " + temDesconto );
 		
-		
-		
-		
 	}
 
 }
