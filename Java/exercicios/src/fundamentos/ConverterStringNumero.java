@@ -16,6 +16,7 @@ public class ConverterStringNumero {
 		
 		System.out.println("Soma é " + soma);
 		System.out.println("Média é " + soma / 2 );
+		
 	}
 
 }
