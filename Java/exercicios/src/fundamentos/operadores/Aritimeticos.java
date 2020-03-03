@@ -1,6 +1,5 @@
 package fundamentos.operadores;
 
-import com.sun.tools.sjavac.server.SysInfo;
 
 public class Aritimeticos {
 	public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package fundamentos.operadores;
 
-import com.sun.tools.sjavac.server.SysInfo;
-
 public class Unarios {
 	public static void main(String[] args) {
 		int a = 1;
