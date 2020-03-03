@@ -2,10 +2,13 @@ package controle;
 
 public class For3 {
 	public static void main(String[] args) {
-		int i = 0; // Fora do escopo consegue utilizar em outros FOR
-		for(i = 0; i < 10 ; i++) {
-			System.out.printf("Valor de I %d \n",i);
+		
+		for(int i = 0; i < 10 ; i++) {
+			for (int j = 0; j <10; j++) {
+				System.out.printf("[%d %d]",i,j);
+			}
+			System.out.println();
 		}
-		System.out.printf("Fora do laço I %d \n",i);
 	}
+
 }
