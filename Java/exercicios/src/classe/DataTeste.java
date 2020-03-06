@@ -7,7 +7,6 @@ public class DataTeste {
 		d1.mes	=	11;
 		d1.ano  = 	1984;
 
-		System.out.printf("A data digitada foi %d/%d/%d", d1.dia,d1.mes,d1.ano);
-
+		System.out.printf(d1.obterDataFormatada());
 	}
 }
