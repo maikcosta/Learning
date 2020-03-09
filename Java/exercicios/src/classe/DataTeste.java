@@ -3,10 +3,12 @@ package classe;
 public class DataTeste {
 	public static void main(String[] args) {
 		Data d1 = new Data();
-		d1.dia	=	13;
-		d1.mes	=	11;
-		d1.ano  = 	1984;
-
-		System.out.printf(d1.obterDataFormatada());
+		d1.ano	= 2021;
+		var d2 = new Data(31,12,2020);
+		
+		String dataFormatada = d1.obterDataFormatada();
+		System.out.println(dataFormatada);
+		System.out.println(d2.obterDataFormatada());
+		
 	}
 }
