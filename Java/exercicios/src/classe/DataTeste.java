@@ -7,8 +7,12 @@ public class DataTeste {
 		var d2 = new Data(31,12,2020);
 		
 		String dataFormatada = d1.obterDataFormatada();
+		
 		System.out.println(dataFormatada);
 		System.out.println(d2.obterDataFormatada());
+		
+		d1.imprimirDataFormatada();
+		d2.imprimirDataFormatada();
 		
 	}
 }
