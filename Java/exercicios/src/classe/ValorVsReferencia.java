@@ -17,7 +17,6 @@ public class ValorVsReferencia {
 		
 		System.out.println(d1.obterDataFormatada());
 		System.out.println(d2.obterDataFormatada());
-		System.out.println(d2.obterDataFormatada());
 		voltarDataParaValorPadrao(d1);
 		
 		System.out.println(d1.obterDataFormatada());
