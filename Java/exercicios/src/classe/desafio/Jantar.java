@@ -13,6 +13,5 @@ public class Jantar {
 		System.out.println(p.apresentar());
 		p.comer(c2);
 		System.out.println(p.apresentar());
-		System.out.println(p.apresentar());
 	}
 }
