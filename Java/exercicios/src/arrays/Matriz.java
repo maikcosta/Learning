@@ -3,8 +3,6 @@ package arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import com.sun.tools.jdeprscan.scan.Scan;
-
 public class Matriz {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
