@@ -20,6 +20,7 @@ public class IMC {
 		entrada.close();
 		
 		System.out.println("Seu IMC é " + resultado);
+		System.out.println("Seu IMC é " + resultado);
 				
 				
 		
