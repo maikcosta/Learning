@@ -1,5 +1,5 @@
 package colecoes;
 
-public class mapa {
+public class Mapa {
 
 }
