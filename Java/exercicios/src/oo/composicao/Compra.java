@@ -9,7 +9,7 @@ public class Compra {
 	
 	void adicionarItem(Item item) {
 		itens.add(item);
-		itens.compra = this;
+		item.compra = this;
 	}
 	
 	double obterValorTotal() {
