@@ -26,6 +26,13 @@ public class CursoTeste {
 			System.out.println("Estou matriculado no curso" + curso3.nome + "...");
 			System.out.println("... e meu nome é " + aluno.nome );
 		}
+		System.out.println(aluno1.cursos.get(0).alunos);
 		
+		Curso cursoEncontrado = aluno1.obterCursoPorNome("Java Completo");
+		
+		if(cursoEncontrado != null) {
+			System.out.println(cursoEncontrado.nome);
+			System.out.println(cursoEncontrado.alunos);
+		}
 	}
 }
