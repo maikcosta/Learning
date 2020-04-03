@@ -2,7 +2,9 @@ Olá galera esse repositório vamos falar sobre o aprendizados em geral
 
 
 
-1. Java
+1. Git
+2. GitHub
+3. Java
   1 [Arrays](https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/arrays)
 
 
