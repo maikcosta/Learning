@@ -43,7 +43,8 @@ public class Teste {
 		System.out.println("A velocidade atual do Civc é "+ civic.velocidadeAtual + "Km/h");
 		System.out.println("A velocidade atual do Ferrari é "+ ferrari.velocidadeAtual + "Km/h");
 			
-		
+		ferrari.ligarTurbo();
+		System.out.println(ferrari.velocidadeAtual);
 	}
 
 }
