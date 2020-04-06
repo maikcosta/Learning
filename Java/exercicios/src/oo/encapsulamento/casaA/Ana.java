@@ -6,6 +6,7 @@ public class Ana {
 	String facoDentroDeCasa	= "..."; //default ou pacote
 	protected String formaDeFalar = "...";
 	public String todosSabem = "...";	
+	
 
 }
 	
