@@ -34,6 +34,8 @@ public class Teste {
 		ferrari.acelerar();
 		ferrari.acelerar();
 		
+		System.out.println(ferrari.velocidadeDoAr());
+		
 		
 		civic.frear();
 		civic.frear();
