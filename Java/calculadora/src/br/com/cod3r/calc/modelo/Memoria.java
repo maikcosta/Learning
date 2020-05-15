@@ -45,7 +45,7 @@ public class Memoria {
 			textoAtual = substituir ? texto : textoAtual + texto; 
 			substituir = false;
 		}else {
-			
+			substituir = true;
 		}
 
 		observadores.forEach(o -> o.valorAlterado(getTextoAtual()));
