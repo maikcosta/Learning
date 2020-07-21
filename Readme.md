@@ -3,8 +3,7 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 1. Git
 2. GitHub
 3. Java
-  3.1. [Arrays](https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/arrays)
-  3.2. [Arrays](https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/arrays)
+4. Phyton
 
 
 
@@ -12,9 +11,9 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 
 - [x] Git
 - [x] GitHub
-- [ ] Java Fundamentos
-- [ ] Lambdas
-- [ ] Generics
+- [x] Java Fundamentos
+- [x] Lambdas
+- [x] Generics
 - [ ] JDBC
 - [ ] Java Persistence(JPA)
 - [ ] Modularidade em Java
