@@ -15,7 +15,7 @@ public class ConsultarPessoa2 {
 		Connection conexao = FabricaConexao.getConexao();
 		String sql = "SELECT * FROM pessoas WHERE nome like ?";
 		
-		System.out.print("Informe o valor para pesquisa: ");
+		System.out.print("Informe o nome para pesquisa: ");
 		String valor = entrada.nextLine();
 		
 		
