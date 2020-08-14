@@ -10,13 +10,14 @@ import javax.persistence.Table;
 import org.hibernate.annotations.CollectionId;
 
 @Entity
-@Table(name="produtos")
+@Table(name="produtos", schema ="curso_java")
 public class Produto {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-	@Column(name="prod_nome", length = 200)
+	@Column(name="prod_nome", length = 200, nullable = false)
 	private String nome;
+	@Column(name="prod_preco", nullable = false, precision = 11, scale =2)
 	private Double preco;
 	
 	public Produto() {
