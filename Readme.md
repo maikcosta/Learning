@@ -1,6 +1,6 @@
 Esse repositório tenho como objetivo criar um guia para faciliar a busca por exemplos para o melhor entendimento dos recrusos e funções.
 
-- [Git](http://https://github.com/maikcosta/Learning/blob/master/GitAndGithub/)
+- [Git](https://github.com/maikcosta/Learning/blob/master/GitAndGithub/)
   - [Git Comandos](http://https://github.com/maikcosta/Learning/blob/master/GitAndGithub/CommandsGit.txt)
 - [Java](http://https://github.com/maikcosta/Learning/tree/master/Java)
   - [Fundamentos](http://https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/fundamentos)
