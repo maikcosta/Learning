@@ -6,8 +6,8 @@ import modelo.umpraum.Cliente;
 
 public class NovoClienteAssento1 {
 	public static void main(String[] args) {
-		Assento assento = new Assento(null, "16C");
-		Cliente cliente = new Cliente("Ana", assento);
+		Assento assento = new Assento(null, "16A");
+		Cliente cliente = new Cliente("Carlos", assento);
 		
 		DAO<Object> dao = new DAO<>();
 		dao.abrirT()

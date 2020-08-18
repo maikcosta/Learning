@@ -50,6 +50,9 @@ public class DAO<E>{
 		return this.abrirT().incluir(entidade).fecharT();
 	}
 	
+	public E obterPorId(Object id) {
+		return em.find(classe, id);
+	}
 	
 	public List<E> obeterTodos(){
 		return this.obterTodos(10,0);
