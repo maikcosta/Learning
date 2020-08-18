@@ -1,9 +1,11 @@
 Esse repositório tenho como objetivo criar um guia para faciliar a busca por exemplos para o melhor entendimento dos recrusos e funções.
 
-1. Git
-2. GitHub
-3. Java
-4. Phyton
+- [Git](http://https://github.com/maikcosta/Learning/blob/master/GitAndGithub/)
+  - [Git Comandos](http://https://github.com/maikcosta/Learning/blob/master/GitAndGithub/CommandsGit.txt)
+- [Java](http://https://github.com/maikcosta/Learning/tree/master/Java)
+  - [Fundamentos](http://https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/fundamentos)
+  - [Classe](http://https://github.com/maikcosta/Learning/tree/master/Java/exercicios/src/classe)
+- Phyton
 
 
 
@@ -14,12 +16,11 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 - [x] Java Fundamentos
 - [x] Lambdas
 - [x] Generics
-- [ ] JDBC
-- [ ] Java Persistence(JPA)
+- [x] JDBC
+- [x] Java Persistence(JPA)
 - [ ] Modularidade em Java
 - [ ] JavaFX
 - [ ] Spring Boot
 - [ ] NoSQL
 - [ ] API
 
-[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XKXDEBLJY88XJ&currency_code=BRL&source=url)
