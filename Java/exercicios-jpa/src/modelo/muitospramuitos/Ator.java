@@ -3,38 +3,41 @@ package modelo.muitospramuitos;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
+import javax.persistence.Table;
 
 @Entity
-public class Tio {
+@Table(name = "atores")
+public class Ator {
 	@Id
-	@GeneratedValue (strategy = GenerationType.IDENTITY)
-	private Long id;
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long Id;
 	
 	private String nome;
 	
-	@ManyToMany 
-	private List<Sobrinho> sobrinhos = new ArrayList<>();
+	@ManyToMany (mappedBy = "atores", cascade = CascadeType.PERSIST)
+	private List<Filme> filmes = new ArrayList<>();	
 	
-	public Tio() {
+	public Ator() {
 		
 	}
-	
-	public Tio(String nome) {
+
+	public Ator(String nome) {
 		super();
 		this.nome = nome;
 	}
 
 	public Long getId() {
-		return id;
+		return Id;
 	}
 
 	public void setId(Long id) {
-		this.id = id;
+		Id = id;
 	}
 
 	public String getNome() {
@@ -45,13 +48,14 @@ public class Tio {
 		this.nome = nome;
 	}
 
-	public List<Sobrinho> getSobrinhos() {
-		return sobrinhos;
+	public List<Filme> getFilmes() {
+		return filmes;
 	}
 
-	public void setSobrinhos(List<Sobrinho> sobrinhos) {
-		this.sobrinhos = sobrinhos;
+	public void setFilmes(List<Filme> filmes) {
+		this.filmes = filmes;
 	}
+	
 	
 
 }
