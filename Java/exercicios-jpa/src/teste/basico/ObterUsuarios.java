@@ -34,7 +34,6 @@ public class ObterUsuarios {
 		}
 		
 		
-		
 		em.close();
 		emf.close();
 	}

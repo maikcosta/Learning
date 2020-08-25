@@ -22,7 +22,7 @@
 	<sql-result-set-mapping name="NotaFilmeMap">
 		<constructor-result
 			target-class="modelo.consulta.NotaFilme">
-			<column name="media" class="java.lang.Doble" />
+			<column name="media" class="java.lang.Double" />
 		</constructor-result>
 	</sql-result-set-mapping>
 </entity-mappings>
