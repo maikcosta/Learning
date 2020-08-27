@@ -1,6 +1,6 @@
 package br.com.cod3r.app.calculo;
 
-import br.com.cod3r.app.calculo.internas.OperacoesAritmeticas;
+import br.com.cod3r.app.calculo.interno.OperacoesAritmeticas;
 import br.com.cod3r.app.logging.Logger;
 
 public class Calculadora {
