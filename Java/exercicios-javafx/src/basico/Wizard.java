@@ -54,6 +54,7 @@ public class Wizard extends Application {
 		box.getChildren().add(proximoPasso);
 		passo2	= new Scene(box,400,400);
 		
+		
 	}
 	
 	public void criarPasso3() {
