@@ -47,7 +47,18 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 - [Calculadora]
   - [Swing](https://github.com/maikcosta/Learning/tree/master/Java/calculadora)
   
-  
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```  
 
 
 [![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XKXDEBLJY88XJ&currency_code=BRL&source=url)
