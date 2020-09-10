@@ -17,22 +17,21 @@ public class LoginControlador {
 
 		boolean emailValido = campoEmail.getText().contentEquals("aluno@cod3r.com.br");
 		boolean senhaValida = campoSenha.getText().contentEquals("12345678");
-
 		if (emailValido && senhaValida) {
 			Notifications.create()
-			.position(Pos.CENTER)
+			.position(Pos.BOTTOM_RIGHT)
 			.title("Login FXML")
 			.graphic(null)
 			.text("Login efetuado com Sucesso!")
-			.show();
+			.showInformation();
 			
 		} else {
 			Notifications.create()
-			.position(Pos.CENTER)
+			.position(Pos.BOTTOM_RIGHT)
 			.title("Login FXML")
 			.graphic(null)
 			.text("Usuário/Senha Inválidos")
-			.show();
+			.showError();
 		}
 
 	}

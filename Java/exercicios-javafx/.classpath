@@ -11,11 +11,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="libs/controlsfx-11.0.2.tar.gz">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="libs/controlsfx-11.0.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
