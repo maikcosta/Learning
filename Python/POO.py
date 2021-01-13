@@ -6,3 +6,4 @@ Pessoa tem:
     
 Cachorro:
     - Nome
+    - Idade
