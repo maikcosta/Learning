@@ -32,6 +32,7 @@ public class PrimeiroFX extends Application{
 		
 		primaryStage.setScene(unicaCena);		
 		primaryStage.show();
+		
 	}
 	
 	public static void main(String[] args) {
