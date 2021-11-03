@@ -34,9 +34,9 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 - [x] Java Persistence(JPA)
 - [x] Modularidade em Java
 - [x] JavaFX
-- [ ] Spring Boot
-- [ ] NoSQL
-- [ ] API
+- [x] Spring Boot
+- [x] NoSQL
+- [x] API
 
 
 ### Projetos realizados durante a aprendizagem
