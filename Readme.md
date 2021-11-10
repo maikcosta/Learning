@@ -1,4 +1,4 @@
-Esse repositório tenho como objetivo criar um guia para faciliar a busca por exemplos para o melhor entendimento dos recrusos e funções.
+Esse repositório tenho como objetivo criar um guia para faciliar a busca por exemplos para o melhor entendimento dos recursos e funções.
 
 - [Git](https://github.com/maikcosta/Learning/blob/master/GitAndGithub/)
   - [Comandos](https://github.com/maikcosta/Learning/blob/master/GitAndGithub/CommandsGit.txt)
