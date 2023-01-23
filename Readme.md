@@ -39,6 +39,19 @@ Esse repositório tenho como objetivo criar um guia para faciliar a busca por ex
 - [x] API
 
 
+Tópicos especificos para a prova de certificação Java OCA 1Z0-808
+
+- [JavaOCA](https://github.com/maikcosta/Learning/tree/main/Java/JavaOCA)
+  - [Classe X Atributos](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Animal.java)
+  - [Classe X Método](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Veiculo.java)
+  - [Comentários](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Comentarios.java)
+  - [Classe Main Declaração de args](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/App.java)
+
+
+### Metas aprendizados para 2023
+
+- [ ] Certificação Java OCA 1Z0-808
+
 ### Projetos realizados durante a aprendizagem
 
 - [Campo Minado]
