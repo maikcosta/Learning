@@ -16,8 +16,11 @@ mkdir "nomedapasta"
 #Entrar pasta
 cd "nomedapasta"
 
-#Descer 1 nivel da pasta
+#Voltar 1 nivel da pasta
 cd ..
+
+#Volta 2 nivel da pasta
+cd ../..
 
 #Inicialização git
 git init
@@ -29,11 +32,18 @@ ls
 #Ciclo de vida dos arquivos
 git status
 
---adicionar ao git
+--Adicionar ao git
 git add "nomedoarquivo"
 
+--Adicionar ao git todos arquivos de uma única vez
+git add .
+
+--Remover arquivos em stage
+git restore --staged nomedoarquivo
+
+
 --commit do primeiro arquivo
-git commit -m "Mensagem/Motivo do Primeiro Commit"
+git commit -m "Primeiro Commit"
 
 #Exibe alterações do git
 git log
@@ -65,12 +75,15 @@ git reset --soft
 git reset --mixed
 git reset --hard
 
+#Restore ponterio do arquivo
+git reset HEAD nomedoarquivo
+
 #Exibir repositorios remotos
 git remote
 git remote -v
 
 #Enviar arquivo via cml git bash
-git push "nomerepositoriasemaspas" master
+git push "nomerepositoriasemaspas" main
 
 
 #Clonagem de repositorios
@@ -100,7 +113,6 @@ git tag -a "tagsemaspas" -m "Mensagem da tag"
 #Deletando tag
 git tag -d "tagsemaspas"
 
-
-
 #Revertendo commitações
 git revert "hashcode"
+

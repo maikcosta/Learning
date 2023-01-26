@@ -44,9 +44,12 @@ Tópicos especificos para a prova de certificação Java OCA 1Z0-808
 - [JavaOCA](https://github.com/maikcosta/Learning/tree/main/Java/JavaOCA)
   - [Classe X Atributos](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Animal.java)
   - [Classe X Método](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Veiculo.java)
-  - [Comentários](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Comentarios.java)
+  - [Tipos de Comentários](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Comentarios.java)
   - [Classe Main Declaração de args](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/App.java)
-
+  - [Sequencia Execução](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Moto.java) 
+  - [Operadores](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Operadores.java) 
+  - [Promoção Numerica](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/PromocaoNumerica.java) 
+  - [IfThenElse](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/IfThenElse.java)
 
 ### Metas aprendizados para 2023
 
