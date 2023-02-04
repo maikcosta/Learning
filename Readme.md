@@ -46,10 +46,19 @@ Tópicos especificos para a prova de certificação Java OCA 1Z0-808
   - [Classe X Método](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Veiculo.java)
   - [Tipos de Comentários](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Comentarios.java)
   - [Classe Main Declaração de args](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/App.java)
+  - [Comentários](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Comentarios.java)
   - [Sequencia Execução](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Moto.java) 
   - [Operadores](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Operadores.java) 
   - [Promoção Numerica](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/PromocaoNumerica.java) 
   - [IfThenElse](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/IfThenElse.java)
+  - [For](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/EstudarFor.java)
+    - [ForEach](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/ForEach.java)
+    - [ForPegadinhas](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/ForPegadinhas.java)
+  - [While](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Pizza.java)
+  - [DoWhile](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/PizzaDoWhile.java)
+  - [Switch](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/EstadosSwitch.java)
+  - [Imutabilidade](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Imutabilidade.java)
+  - [Metódos Importantes String](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/MetodosImportatesString.java)
 
 ### Metas aprendizados para 2023
 
