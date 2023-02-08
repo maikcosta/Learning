@@ -59,6 +59,8 @@ Tópicos especificos para a prova de certificação Java OCA 1Z0-808
   - [Switch](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/EstadosSwitch.java)
   - [Imutabilidade](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Imutabilidade.java)
   - [Metódos Importantes String](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/MetodosImportatesString.java)
+  - [Arrays](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/Arrays.java)
+  - [StringBuilders](https://github.com/maikcosta/Learning/blob/main/Java/JavaOCA/StringBuilders.java)
 
 ### Metas aprendizados para 2023
 
